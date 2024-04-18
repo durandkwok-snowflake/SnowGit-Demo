@@ -1,5 +1,6 @@
 # SnowGit-Setup
 ##With SnowGit read-only in Snowsight user can now:
+
 *Connect to an existing git repository via the Create object → Git Repository flow in the UI
 
 *See all their branches, tags and folders and files inside their repository
