@@ -35,7 +35,6 @@ CREATE OR REPLACE API INTEGRATION git_api_integration_scaling_test
 <img width="572" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/4391eff9-720f-46c8-8934-8d9b57821a0b">
 
 
-<img width="502" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/0a603ec3-2e49-4b8e-bed9-62c292d83239">
 
 ### Enter Repository Name
 <img width="494" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/5611293a-83cb-4576-a630-deeb91ce8bca">
@@ -56,6 +55,10 @@ CREATE OR REPLACE API INTEGRATION git_api_integration_scaling_test
 #### Select Enable Authentication if your repository is private (Note: My repository is public therefore I did not enable authentication)
 
 <img width="500" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/b5e7e46b-d104-421b-a4b5-92c33f3c18f2">
+
+#### The setup should look something like this
+
+<img width="502" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/0a603ec3-2e49-4b8e-bed9-62c292d83239">
 
 ### Select Create to proceed
 
