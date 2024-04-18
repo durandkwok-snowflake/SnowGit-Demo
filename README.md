@@ -61,6 +61,13 @@ CREATE OR REPLACE API INTEGRATION git_api_integration_scaling_test
 
 <img width="144" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/54926133-3459-4306-84e9-f01f1b30d816">
 
+### Navigate to the newly create Git Repository
+<img width="1426" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/2dfea976-4ce6-480a-9a07-dd41022d5cb9">
+
+### You are able to execute immediately, copy the content into a new worksheet, copy the path or download
+<img width="1141" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/3859d996-ccf5-4674-93ea-f6ad3a8d3b95">
+
+
 
 
 
