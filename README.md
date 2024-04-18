@@ -70,6 +70,9 @@ CREATE OR REPLACE API INTEGRATION git_api_integration_scaling_test
 ### You are able to execute immediately, copy the content into a new worksheet, copy the path or download
 <img width="1141" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/3859d996-ccf5-4674-93ea-f6ad3a8d3b95">
 
+### Testing with copy into worksheet
+
+<img width="1256" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/d957cca9-dcde-4034-92ec-8ad0f37f55ca">
 
 
 
