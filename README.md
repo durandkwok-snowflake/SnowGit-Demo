@@ -21,7 +21,7 @@
 https://docs.snowflake.com/LIMITEDACCESS/git-integration/git-integration-setting-up
 
 ## Setup
-**Select a Database and Schema then select Create Git Repository Integration**
+**Select a Database and Schema then select Create Git Repository**
 
 ### Create API INTEGRATION
 **Run the following in a worksheet**
