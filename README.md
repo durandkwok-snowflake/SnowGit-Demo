@@ -25,8 +25,6 @@ CREATE OR REPLACE API INTEGRATION git_api_integration_scaling_test
   --ALLOWED_AUTHENTICATION_SECRETS = (git_secret)
   ENABLED = TRUE;
 ```
-
-
 ### Select a Database and Schema to Create Git Repository Integration
 <img width="275" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/def78c08-3756-4fc6-adc1-dcd205e9298a">
 
