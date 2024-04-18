@@ -44,10 +44,13 @@ CREATE OR REPLACE API INTEGRATION git_api_integration_scaling_test
 
 <img width="493" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/9ed4517a-8c58-4698-98d8-5eed3a410971">
 
-#### and populate the Origin field
+#### and populate the Origin field from Setup
 
 <img width="480" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/6c72bf44-626d-4ec9-81bf-414962814307">
 
+#### Select the API Integration from the drop down list
+
+<img width="499" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/41f592fc-c97b-420c-9490-56fb3566a962">
 
 
 
