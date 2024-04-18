@@ -1,1 +1,1 @@
-# Snowsight-Git-Integration
+# SnowGit-Setup
