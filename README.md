@@ -14,6 +14,10 @@
 *Copy the code from a SQL-script template into a worksheet to modify and run it
 
 *Download a file from the repo to use it locally
+
+### Product Documentation Link
+https://docs.snowflake.com/LIMITEDACCESS/git-integration/git-integration-setting-up
+
 ### Create API INTEGRATION
 
 <img width="1235" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/3f63db31-5e8f-476b-bede-c9cc596c7758">
