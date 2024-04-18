@@ -1,7 +1,7 @@
 # SnowGit Demo
   ### You can use Snowsight to integrate a Git repository with Snowflake.
   
-## With SnowGit read-only in Snowsight user can now:
+## With SnowGit which is currently read-only in Snowsight, user can now:
 
 *Connect to an existing git repository via the Create object → Git Repository flow in the UI
 
