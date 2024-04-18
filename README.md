@@ -38,7 +38,7 @@ CREATE OR REPLACE API INTEGRATION git_api_integration_scaling_test
 
 
 
-<img width="572" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/4391eff9-720f-46c8-8934-8d9b57821a0b">
+
 
 
 
@@ -79,6 +79,9 @@ CREATE OR REPLACE API INTEGRATION git_api_integration_scaling_test
 ### Testing with copy into worksheet
 
 <img width="1256" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/d957cca9-dcde-4034-92ec-8ad0f37f55ca">
+
+
+<img width="572" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/4391eff9-720f-46c8-8934-8d9b57821a0b">
 
 
 
