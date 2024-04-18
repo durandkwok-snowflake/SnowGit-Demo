@@ -18,6 +18,8 @@
 
 <img width="1235" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/3f63db31-5e8f-476b-bede-c9cc596c7758">
 
+**Note: You have the options of using secrets for the api integration.**
+
 ```SQL
 CREATE OR REPLACE API INTEGRATION git_api_integration_scaling_test
   API_PROVIDER = git_https_api
