@@ -34,11 +34,16 @@ CREATE OR REPLACE API INTEGRATION git_api_integration_scaling_test
 
 <img width="572" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/4391eff9-720f-46c8-8934-8d9b57821a0b">
 
-<img width="502" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/0a603ec3-2e49-4b8e-bed9-62c292d83239">
 
 ### Enter Repository Name
 <img width="494" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/5611293a-83cb-4576-a630-deeb91ce8bca">
 
+### Enter Origin
+Fetch the URL from the Github you want to integrate with
+<img width="507" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/9795d690-2f52-46b9-b5da-dfd562638e32">
+and populate the Origin field
+<img width="480" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/6c72bf44-626d-4ec9-81bf-414962814307">
 
 
+<img width="502" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/0a603ec3-2e49-4b8e-bed9-62c292d83239">
 
