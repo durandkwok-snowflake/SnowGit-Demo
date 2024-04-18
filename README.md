@@ -42,7 +42,7 @@ CREATE OR REPLACE API INTEGRATION git_api_integration_scaling_test
 ### Enter Origin
 #### Fetch the URL from the Github you want to integrate with
 
-<img width="507" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/9795d690-2f52-46b9-b5da-dfd562638e32">
+<img width="493" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/9ed4517a-8c58-4698-98d8-5eed3a410971">
 
 #### and populate the Origin field
 
