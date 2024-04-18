@@ -21,8 +21,10 @@
 https://docs.snowflake.com/LIMITEDACCESS/git-integration/git-integration-setting-up
 
 ## Setup
+**Select a Database and Schema to Create Git Repository Integration**
 
 ### Create API INTEGRATION
+**Run the following in a worksheet**
 
 <img width="1235" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/3f63db31-5e8f-476b-bede-c9cc596c7758">
 
@@ -35,7 +37,7 @@ CREATE OR REPLACE API INTEGRATION git_api_integration_scaling_test
   --ALLOWED_AUTHENTICATION_SECRETS = (git_secret)
   ENABLED = TRUE;
 ```
-### Select a Database and Schema to Create Git Repository Integration
+### Select the same Database and Schema to Create Git Repository Integration
 <img width="275" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/def78c08-3756-4fc6-adc1-dcd205e9298a">
 
 <img width="1147" alt="image" src="https://github.com/durandkwok-snowflake/SnowGit-Read_Only_UI/assets/109616231/1a02b83d-9372-4002-85c9-1faeaebf6892">
